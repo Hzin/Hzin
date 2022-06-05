@@ -1,4 +1,4 @@
-## Olá eu sou Hugo Falcão, Desenvolvedor Full Stack at ACX Systems Xperience!
+## Hello, I'm Hugo Falcão, Desenvolvedor Full Stack at ACX Systems Xperience!
 <div align="center">
   <a href="https://github.com/Hzin">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hzin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
