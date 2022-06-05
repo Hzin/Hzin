@@ -1,47 +1,25 @@
-## Hello, World! 👋
-
+## Olá eu sou Hugo Falcão, Desenvolvedor Full Stack at ACX Systems Xperience!
 <div align="center">
+  <a href="https://github.com/Hzin">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hzin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hzin&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Icon-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Icon-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Icon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Icon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Icon-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Icon-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Icon-Ionic" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg">
+</div>
   
-<img src="https://github.blog/wp-content/uploads/2018/10/46896184-b679fc80-ce30-11e8-88bf-921e9b788f7c.gif?resize=200%2C200" />
-
-I'm a Full Stack Developer.
-
-<details>
-  <summary> More about me</summary>
-<div align="left">
+  ##
  
-``` js
-const falcao = {
-    personal: {
-        fullName: 'Hugo Coelho Falcão',
-        birthDate: '2001-03-24',
-        interests: ['music', 'games', 'cars', 'films'],
-        motivation: [
-            '',
-        ],
-    },
-    technical: {
-        technologies: {
-            frontEnd: {
-                "JavaScript",
-                HTML: ['HTML5', 'Semantic HTML'],
-                CSS: ['Bootstrap'],
-            },
-            backEnd: [
-                "JavaScript",
-                "4GL",
-                "C#",
-                "TypeScript"
-            ],
-            architecture: [],
-        },
-    }
-}
-```
-  </div>
-</details>
-
-[![Gmail](https://img.shields.io/twitter/url?label=email&logo=gmail&style=social&url=http%3A%2F%2Fmailto%3Astephanyn7%40gmail.com)](mailto:hugocoelhof03@gmail.com)
-[![Linkedin: hugo-falcao](https://img.shields.io/badge/-Hugo_Falcão-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hugo-falcao/)](https://www.linkedin.com/in/hugo-falcao/)
-[![GitHub: Hzin](https://img.shields.io/github/followers/Hzin?label=follow&style=social)](https://github.com/Hzin)
+<div> 
+  <a href = "mailto:hugocoelhof03@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/hugo-falcao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/Hzin/Hzin/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
