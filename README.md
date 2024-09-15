@@ -1,4 +1,4 @@
-## Hello, I'm Hugo Falcão, Full Stack Developer from Campinas-SP, Brazil
+## Hello, I'm Hugo Falcão, Full Stack Developer from São Paulo-SP, Brazil
 <div align="center">
   <a href="https://github.com/Hzin">
   <img width="400rem" height="180em" src="https://github-readme-stats.vercel.app/api?username=Hzin&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -12,7 +12,7 @@
   <img align="center" alt="Icon-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Icon-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Icon-Ionic" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg">
-  <img align="center" alt="Icon-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
+  <img align="center" alt="Icon-Laravel" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg](https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png)">
   <img align="center" alt="Icon-NodeJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg">
 </div>
   
